@@ -16,10 +16,10 @@ Users can **filter by country & date range** and explore **interactive visualiza
 
 ## 📸 **Screenshots**  
  
-![First Screenshot](https://raw.githubusercontent.com/Mou2004/COVID-19_trend_analysis/main/images/first.png)  
+![First Screenshot](https://github.com/Mou2004/COVID-19_trend_analysis/blob/main/images/first.PNG)  
 
  
-![Second Screenshot](https://raw.githubusercontent.com/Mou2004/COVID-19_trend_analysis/main/images/second.png)  
+![Second Screenshot](https://github.com/Mou2004/COVID-19_trend_analysis/blob/main/images/second.PNG)  
  
 
 ---
