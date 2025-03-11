@@ -6,7 +6,7 @@
 
 ---
 ## ⭐ **Overview**  
-This **COVID-19 Dashboard** provides interactive **country-wise analysis** of pandemic trends, including:  
+This web-app provides interactive **country-wise analysis** of pandemic trends, including:  
 ✅ **New Cases Over Time** 📈  
 ✅ **Death Rates & Trends** ⚰️  
 ✅ **Correlation Between Vaccinations & New Cases** 💉  
