@@ -10,7 +10,7 @@ This web-app provides interactive **country-wise analysis** of pandemic trends, 
 ✅ **Death Rates & Trends** ⚰️  
 ✅ **Correlation Between Vaccinations & New Cases** 💉  
 
-Users can **filter by country & date range** and explore **interactive visualizations** to gain insights.
+Users can **filter by country & date range** and explore visualizations to gain insights.
 ---
 
 ## 📸 **Screenshots**  
